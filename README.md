@@ -21,6 +21,7 @@
 
 ## 📫 How to Reach Me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/ninjafrmtjk)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/suhrobsharifov)
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mailto:tazumi46.16@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/ninjafrmtjk)
 
