@@ -23,7 +23,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/ninjafrmtjk)
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mailto:tazumi46.16@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/ninjafrmtjk)
-[![Static Badge](https://img.shields.io/badge/Portfolio-8A2BE2)](https://ninjafrmtjk.netlify.app/)
 
 ---
 
